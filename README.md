@@ -4,6 +4,8 @@ Once length is chosen the user is asked 4 more questions about if they would lik
 If none are selected, the user is alerted they must select at least one of the criteria to continue. 
 If criteria is met, the user recieves a randomly generated password. 
 
-(Assets/SS1.png?raw=true)
-(Assets/SS2.png?raw=true)
-(Assets/SS3.png?raw=true)
+https://mischadab.github.io/Password-Generator/.
+
+![Screenshot1](Assets/SS1.png?raw=true)
+![Screenshot2](Assets/SS2.png?raw=true)
+![Screenshot3](Assets/SS3.png?raw=true)
